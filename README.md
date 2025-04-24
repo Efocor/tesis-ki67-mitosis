@@ -1,6 +1,6 @@
 # Unlocking the Microscopic Code: Deep Learning for Mitosis Detection in Ki-67 Histological Images
 
-This repository contains the thesis project focused on developing an advanced deep learning system for the automatic detection and counting of mitotic figures in medical histological images, particularly those stained with Ki-67 — a key biomarker in cancer research.
+This repository contains the thesis project focused on developing an advanced deep learning system for the automatic detection and counting of mitotic figures in medical histological images, particularly those stained with Ki-67 — a key biomarker in cancer research (also exploring ER & PR cases and comparisons with H&E developments).
 
 ## 🔍 Objective
 The goal is to build a robust pipeline for processing and analyzing histopathological images using deep learning, addressing complex challenges such as cell overlap, staining variability, imaging artifacts, and domain adaptation between public and hospital datasets.
