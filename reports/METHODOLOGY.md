@@ -1,6 +1,6 @@
 # Methodology for Nuclei/Mitosis Counting:
 
-Basic analysis on how to do the job:
+Basic analysis on starting point for both usage and training and what we get or have as datasets.
 
 ## **1. Dataset Structure**
 - **Bare images**: High-resolution Ki-67 stained tissue images.
