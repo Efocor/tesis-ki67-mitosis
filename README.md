@@ -12,6 +12,7 @@ The goal is to build a robust pipeline for processing and analyzing histopatholo
 - **April 21:** Dataset comparison report and evaluation of deep learning model baselines.
 - **April 24:** Methodology consolidation and dataset issue tracking initiated.
 - **May 1:** Exploration and work of the datasets.
+- **May 9:** Recreation of formal results.
 _(See `/reports/` and commits for full details.)_
 
 ## 🧠 Key Topics Explored
