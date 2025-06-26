@@ -6,7 +6,7 @@ This repository contains the thesis project focused on developing an advanced de
 The goal is to build a robust pipeline for processing and analyzing histopathological images using deep learning, addressing complex challenges such as cell overlap, staining variability, imaging artifacts, and domain adaptation between public and hospital datasets. (Benchmark and other steps will be added on the analysis to conclude best options).
 
 ## 📆 Progress Log
-- **April 1:** Official thesis kickoff. Introduction to the lab and project.
+- **April 1:** Official thesis kickoff. Introduction to the lab and project, etc.
 - **April 7:** Initial meetings. Definition of core challenges and research goals.
 - **April 8–17:** Exploration of histology fundamentals, dataset analysis, and initial HPC setup.
 - **April 21:** Dataset comparison report and evaluation of deep learning model baselines.
