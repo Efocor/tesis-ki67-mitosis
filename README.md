@@ -13,6 +13,7 @@ The goal is to build a robust pipeline for processing and analyzing histopatholo
 - **April 24:** Methodology consolidation and dataset issue tracking initiated.
 - **May 1:** Exploration and work of the datasets.
 - **May 9:** Recreation of formal results.
+- **Aug 12:** First model tests.
 _(See `/reports/` and commits for full details.)_
 
 ## 🧠 Key Topics Explored
